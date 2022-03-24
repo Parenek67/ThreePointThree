@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ThreePointThree</string>
+    <string-array name="fields">
+        <item>"Имя"</item>
+        <item>"Номер телефона"</item>
+        <item>"Пол"</item>
+    </string-array>
+</resources>
+
+
